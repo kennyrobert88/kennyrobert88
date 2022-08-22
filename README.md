@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kenny Robert currently in my senior year at UC Berkeley
+- 👋 Hi, I’m Kenny Robert currently in my senior year at UC Berkeley Majoring in Electrical Engineering and Computer Science
 - 👀 I’m interested in Software Engineer, Front-End engineering, Back-End Engineering and DevOps
 
 <!---
