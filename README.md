@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kenny Robert currently working at Accenture
 - 👀 I’m interested in Full-Stack and Devops
 - Tech Stack Used: Flask, Spring-Boot, Redis, Oracle SQL, React
-- 
 
 <!---
 kennyrobert88/kennyrobert88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
