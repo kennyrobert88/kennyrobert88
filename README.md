@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Kenny Robert currently working at Accenture
+- Education: University of California, Berkeley 2023
 - 👀 I’m interested in Full-Stack and Devops
 - Tech Stack Used: Flask, Spring-Boot, Redis, Oracle SQL, React
 
