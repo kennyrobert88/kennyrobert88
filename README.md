@@ -33,10 +33,12 @@
 
 ### 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kennyrobert88&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyrobert88&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kennyrobert88&theme=tokyonight" alt="GitHub Profile Details" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kennyrobert88&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kennyrobert88&theme=tokyonight" alt="Top Languages by Repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kennyrobert88&theme=tokyonight" alt="Top Languages by Commit" />
+
+<img src="https://streak-stats.demolab.com/?user=kennyrobert88&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
