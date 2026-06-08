@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kenny+Robert;Full-Stack+Engineer+%40+Accenture;UC+Berkeley+%272023" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Kenny+Robert;Full-Stack+Engineer+%40+Accenture;UC+Berkeley+%272023;Building+and+shipping+every+day" alt="Typing SVG" />
 </div>
 
 ---
@@ -8,8 +8,27 @@
 
 - 🎓 **University of California, Berkeley** — Class of 2023
 - 💼 **Engineer** at **Accenture**
+- 🔭 Currently working on **distributed systems & event-driven architectures**
 - 🌱 Passionate about **Full-Stack Development** & **DevOps**
 - ⚡ Constantly building and shipping
+
+---
+
+### 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/krobert-88/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:kennyrobert88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kennyrobert88">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
@@ -29,6 +48,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kennyrobert88&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
 <div align="center">
 
 ### 📊 GitHub Analytics
@@ -40,17 +67,27 @@
 
 <img src="https://streak-stats.demolab.com/?user=kennyrobert88&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kennyrobert88&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+
 </div>
 
 ---
 
 ### 📌 Notable Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Go Stream Processing](https://github.com/kennyrobert88/go-stream-processing) | Go Stream connector | go |
-| [Analy](https://github.com/kennyrobert88/) | Email Analytics desktop application | Electron Js |
-| [NumberToWords](https://github.com/kennyrobert88/NumberToWords) | Java library to convert number to words in Indonesian language | Java |
+| Project | Description | Stack | Stars |
+|---------|-------------|-------|-------|
+| [Go Stream Processing](https://github.com/kennyrobert88/go-stream-processing) | High-throughput stream connector built for real-time event processing pipelines | Go | ![Stars](https://img.shields.io/github/stars/kennyrobert88/go-stream-processing?style=flat-square&color=2F81F7) |
+| [Analy](https://github.com/kennyrobert88/analy) | Desktop email analytics app — surfaces open rates, response times & engagement metrics | Electron.js | ![Stars](https://img.shields.io/github/stars/kennyrobert88/analy?style=flat-square&color=2F81F7) |
+| [NumberToWords](https://github.com/kennyrobert88/NumberToWords) | Java library to convert integers to Indonesian-language word representations | Java | ![Stars](https://img.shields.io/github/stars/kennyrobert88/NumberToWords?style=flat-square&color=2F81F7) |
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kennyrobert88/kennyrobert88/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</div>
 
 ---
 
