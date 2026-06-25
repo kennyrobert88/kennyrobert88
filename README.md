@@ -6,11 +6,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **University of California, Berkeley** — Class of 2023
-- 💼 **Engineer** at **Accenture**
-- 🔭 Currently working on **distributed systems & event-driven architectures**
-- 🌱 Passionate about **Full-Stack Development** & **DevOps**
-- ⚡ Constantly building and shipping
+- 🎓 Graduated from the **University of California, Berkeley** in 2023
+- 💼 Engineer at **Accenture**, building software that scales
+- 🔭 Focused on **distributed systems & event-driven architectures**
+- 🌱 Passionate about **Full-Stack Development** & **Electrical Engineering**
+- ⚡ Always learning, always shipping
 
 ---
 
@@ -79,9 +79,13 @@
 
 | Project | Description | Stack | Stars |
 |---------|-------------|-------|-------|
-| [Go Stream Processing](https://github.com/kennyrobert88/go-stream-processing) | High-throughput stream connector built for real-time event processing pipelines | Go | ![Stars](https://img.shields.io/github/stars/kennyrobert88/go-stream-processing?style=flat-square&color=2F81F7) |
-| [Analy](https://github.com/kennyrobert88/analy) | Desktop email analytics app — surfaces open rates, response times & engagement metrics | Electron.js | ![Stars](https://img.shields.io/github/stars/kennyrobert88/analy?style=flat-square&color=2F81F7) |
-| [NumberToWords](https://github.com/kennyrobert88/NumberToWords) | Java library to convert integers to Indonesian-language word representations | Java | ![Stars](https://img.shields.io/github/stars/kennyrobert88/NumberToWords?style=flat-square&color=2F81F7) |
+| [Go Stream Processing](https://github.com/kennyrobert88/go-stream-processing) | A high-throughput, low-latency stream connector engineered for real-time event pipelines at scale | Go | ![Stars](https://img.shields.io/github/stars/kennyrobert88/go-stream-processing?style=flat-square&color=2F81F7) |
+| [Analy](https://github.com/kennyrobert88/analy) | A cross-platform desktop app that turns raw email activity into actionable insights — open rates, response times & engagement at a glance | Electron.js | ![Stars](https://img.shields.io/github/stars/kennyrobert88/analy?style=flat-square&color=2F81F7) |
+| [NumberToWords](https://github.com/kennyrobert88/NumberToWords) | A lightweight Java library that converts integers into their Indonesian-language word form, with clean and extensible parsing | Java | ![Stars](https://img.shields.io/github/stars/kennyrobert88/NumberToWords?style=flat-square&color=2F81F7) |
+| [kennyrobert.io](https://github.com/kennyrobert88/kennyrobert.io) | My personal portfolio site — showcasing projects, experience & ways to get in touch | HTML | ![Stars](https://img.shields.io/github/stars/kennyrobert88/kennyrobert.io?style=flat-square&color=2F81F7) |
+| [Op-Amp](https://github.com/kennyrobert88/op-amp) | Operational amplifier circuit designs and simulations exploring gain, filtering & signal conditioning | LTspice | ![Stars](https://img.shields.io/github/stars/kennyrobert88/op-amp?style=flat-square&color=2F81F7) |
+| [Power Converter](https://github.com/kennyrobert88/power-converter) | AC/DC power conversion circuits — rectifier and inverter topologies modeled and simulated | LTspice | ![Stars](https://img.shields.io/github/stars/kennyrobert88/power-converter?style=flat-square&color=2F81F7) |
+| [Vehicle-to-Load](https://github.com/kennyrobert88/vehicle-to-load) | A demonstration of vehicle-to-load (V2L) systems, modeling bidirectional EV power delivery | Python | ![Stars](https://img.shields.io/github/stars/kennyrobert88/vehicle-to-load?style=flat-square&color=2F81F7) |
 
 ---
 
